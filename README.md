@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+![myimage-alt-tag](https://github.com/Sanandan045/News_App/blob/main/lib/screenshots/ss1.jpg)
+![myimage-alt-tag](https://github.com/Sanandan045/News_App/blob/main/lib/screenshots/ss2.jpg)
+![myimage-alt-tag](https://github.com/Sanandan045/News_App/blob/main/lib/screenshots/ss3.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
